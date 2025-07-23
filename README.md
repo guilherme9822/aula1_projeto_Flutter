@@ -1,16 +1,6 @@
 # aula1_projeto
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="500" height="916" alt="Captura de tela 2025-07-23 005340" src="https://github.com/user-attachments/assets/64f4592a-dc16-4d7b-994a-f7ffdf93661e" />
+<img width="500" height="914" alt="Captura de tela 2025-07-23 005350" src="https://github.com/user-attachments/assets/eb4e92f3-b7dd-46d3-8d2d-1037970c361f" />
